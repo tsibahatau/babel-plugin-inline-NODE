@@ -1,8 +1,9 @@
 {
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "inline node-env value into js source",
   "repository": "tsibahatau/babel-plugin-inline-node",
   "author": "Tsimur Sibahatau <tsimur_sibahatau@epam.com>",
+  "name": "babel-plugin-inline-node",
   "main": "lib/index.js",
   "devDependencies": {
     "babel-cli": "^6.4.5",
